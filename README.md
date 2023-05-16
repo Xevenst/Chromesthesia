@@ -1,5 +1,7 @@
 # Chromesthesia
 
+WARNING: BEFORE TEST PLAY, MAKE SURE THAT YOU HAVE UNITY REMOTE INSTALLED! ALTERNATIVELY, YOU CAN BUILD THE APK AND PLAY IT WITH YOUR PHONE.
+
 Chromesthesia is a rhythm game that attempts to balance the need for good gameplay and visuals at the same time while also making it as convenient as possible for players to enjoy. The game allows player to tap and swipe anywhere for input and has a chromesthesia inspired audio visualization technique.
 
 This game was made using unity and as for now only playable in android devices.
